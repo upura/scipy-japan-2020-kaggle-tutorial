@@ -1,6 +1,6 @@
 # Quick Start Guide of Kaggle: Machine Learning Competitions with Python
 
-This repository contains materials and source code of a tutorial named “Quick Start Guide of Kaggle: Machine Learning Competitions with Python” in [Scipy Japan 2020](https://www.scipyjapan.scipy.org/), held on October 30.
+This repository contains materials and source code of a tutorial named “Quick Start Guide of Kaggle: Machine Learning Competitions with Python” (Pythonで機械学習コンペティション「Kaggle」をはじめよう) in [Scipy Japan 2020](https://www.scipyjapan.scipy.org/), held on October 30.
 
 ## Abstract
 
