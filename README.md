@@ -56,6 +56,10 @@ Wrap up & future resources
 
 All are from: https://github.com/upura/python-kaggle-start-book
 
+## Slides
+
+You can see the slides [here](https://speakerdeck.com/upura/quick-start-guide-of-kaggle-machine-learning-competitions-with-python). If you want to click URLs in the slides, please download PDF.
+
 ## Prerequisites
 
 Log in to [Kaggle website](https://www.kaggle.com/).
