@@ -11,25 +11,37 @@ The [Speaker](https://www.kaggle.com/sishihara) won first place in [a Kaggle com
 
 ## Table of Contents
 
-1. **Introduction**: What is machine learning & Kaggle?
-    1. What is machine learning?
-    1. What is Kaggle?
-1. **Practice**: Python tutorial with Kaggle Notebooks
-    1. Participation in a competition
-    1. How to use Python environment in Kaggle
-    1. Loading packages
-    1. Loading datasets
-    1. Feature engineering
-    1. Training and prediction of machine learning algorithms
-    1. Submission to the leaderboard
-    1. Exploratory data analysis
-    1. The importance of validation
-    1. Adding hypothesis-based features
-    1. Switching machine learning algorithms
-    1. Showing feature importance
-1. **Conclusion**: Wrap up & future resources
-    1. Wrap up
-    1. Future resources
+### 09:00-09:35 Introduction
+
+What is machine learning & Kaggle?
+
+### 09:35-09:40 Short break
+
+### 09:40-10:45 Practice 1: From participation to submission
+
+1. Participation in a competition
+1. How to use Python environment in Kaggle
+1. Loading packages
+1. Loading datasets
+1. Feature engineering
+1. Training and prediction of machine learning algorithms
+1. Submission to the leaderboard
+
+### 10:45-11:00 Long break
+
+### 11:00-11:45 Practice 2: How to boost your score
+
+1. Exploratory data analysis
+1. The importance of validation
+1. Adding hypothesis-based features
+1. Switching machine learning algorithms
+1. Showing feature importance
+
+### 11:45-11:50 Short break
+
+### 11:50-12:30 Conclusion
+
+Wrap up & future resources
 
 ## Prerequisites
 
