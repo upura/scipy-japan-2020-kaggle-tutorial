@@ -46,7 +46,8 @@ Wrap up & future resources
 
 ## Notebook URLs
 
-1. Start: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-02
+1. Start: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-01
+1. Benchmark: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-02
 1. Exploratory data analysis: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-03
 1. Adding hypothesis-based features: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-04
 1. Switching machine learning algorithms: https://www.kaggle.com/sishihara/python-kaggle-start-book-ch02-05
